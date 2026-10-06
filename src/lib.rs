@@ -180,6 +180,7 @@ pub mod native_parameter_definitions;
 pub mod native_parameters;
 pub mod native_parametric_mesh;
 pub mod native_parametric_surface;
+pub mod native_phases;
 pub mod native_saved_glb;
 pub mod native_saved_materials;
 pub mod native_saved_mesh;
